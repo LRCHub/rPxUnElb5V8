@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の願いが世界を輝かす",
+  "base_artist": "MISIA",
+  "createdAt": "2025-12-16T16:44:35.087440Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の願いが世界を輝かす",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/pl_01_君の願いが世界を輝かす_MISIA.txt"
+    }
+  ]
+}
